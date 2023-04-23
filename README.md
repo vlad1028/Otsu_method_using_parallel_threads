@@ -1,0 +1,2 @@
+# Otsu_method_using_parallel_threads
+Преобразование изображения методом Оцу
