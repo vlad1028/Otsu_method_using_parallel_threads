@@ -13,6 +13,6 @@ main - имя испольняемого файла
 * 0 - число потоков по умолчанию
 
 ## in.pnm
-![alt text](./in.pnm)
+![alt text](./in.pnm?raw=true)
 ## out.pnm
-![alt text](./out.pnm)
+![alt text](./out.pnm?raw=true)
